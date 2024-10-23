@@ -1,0 +1,14 @@
+.slider {
+  height: 55rem;
+  &--image {
+    width: 100%;
+    object-fit: cover;
+    object-position: bottom center;
+  }
+}
+
+@media (max-width: 668px) {
+  .slider {
+    height: 16rem;
+  }
+}

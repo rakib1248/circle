@@ -1,0 +1,44 @@
+img.addminsingle {
+  height: 40rem;
+  width: 40rem;
+  object-fit: cover;
+  object-position: top center;
+  border-radius: 0.7rem;
+}
+
+.status {
+  background-color: #fff;
+  display: inline-block;
+  font-size: 1.6rem;
+  padding: 0rem 1rem;
+  border-radius: 0.8rem;
+}
+.name {
+  font-weight: 500;
+}
+
+.pera {
+  text-align: left;
+  margin-bottom: 3rem;
+}
+.contact {
+  &--title {
+    font-size: 4rem;
+    font-weight: 500;
+  }
+  &--item {
+    width: 40rem;
+    text-align: left;
+    padding: 1rem;
+    border-radius: 0.9rem;
+    // background: #000;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1), 0 1px 3px rgba(0, 0, 0, 0.08);
+  }
+  &--mobaile {
+    text-align: left;
+    padding: 1rem 0rem;
+  }
+  &--social {
+    font-size: 4rem;
+  }
+}

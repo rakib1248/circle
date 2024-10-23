@@ -1,0 +1,18 @@
+.header {
+  display: grid;
+
+  grid-template-columns: repeat(1, 100px 1fr);
+  justify-content: center;
+  align-items: center;
+  justify-items: end;
+  &--content {
+    font-size: 1rem;
+  }
+
+  &--im {
+      width: 10rem;
+      height: 10rem;
+      border-radius: 50%;
+    }
+  
+}
