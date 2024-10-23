@@ -27,7 +27,7 @@ const Intro = () => {
           <div className="slider">
             <img
               className="slider--image"
-              src="../../../public/img/intro1.png"
+              src="../../../img/intro1.png"
               alt=""
             />
           </div>
@@ -36,7 +36,7 @@ const Intro = () => {
           <div className="slider">
             <img
               className="slider--image"
-              src="../../../public/img/intro2.jpg"
+              src="../../../img/intro2.jpg"
               alt=""
             />
           </div>
@@ -45,7 +45,7 @@ const Intro = () => {
           <div className="slider">
             <img
               className="slider--image"
-              src="../../../public/img/intro3.png"
+              src="../../../img/intro3.png"
               alt=""
             />
           </div>
