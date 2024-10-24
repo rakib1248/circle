@@ -74,7 +74,7 @@ export const Teams = [
     status: "Admin",
     name: "MD Rakibul Islam",
     Photo: "../../img/rakib.jpg",
-    email:"faruk@gmail.com",
+    email:"rakib@gmail.com",
     mobaile:"+886478554434",
     facebook:"https://www.facebook.com/Fahim1Ar",
     pera: " Kaille Beda But Innocent"
@@ -84,7 +84,7 @@ export const Teams = [
     status: "Moderator",
     name: "Md Tanvir",
     Photo: "../../img/tanvir.jpg",
-    email:"faruk@gmail.com",
+    email:"tanvir@gmail.com",
     mobaile:"+886478554434",
     facebook:"https://www.facebook.com/groups/583525299927716/user/100007775596296",
     pera: "Telegram ar Pro Player"
