@@ -36,6 +36,24 @@ const Intro = () => {
           <div className="slider">
             <img
               className="slider--image"
+              src="../../../img/intro5.jpg"
+              alt=""
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="slider">
+            <img
+              className="slider--image"
+              src="../../../img/intro6.jpg"
+              alt=""
+            />
+          </div>
+        </SwiperSlide>
+        <SwiperSlide>
+          <div className="slider">
+            <img
+              className="slider--image"
               src="../../../img/intro2.jpg"
               alt=""
             />
