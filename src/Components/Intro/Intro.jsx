@@ -36,7 +36,7 @@ const Intro = () => {
           <div className="slider">
             <img
               className="slider--image"
-              src="../../../img/intro5.jpg"
+              src="../../../img/intro7.jpg"
               alt=""
             />
           </div>
